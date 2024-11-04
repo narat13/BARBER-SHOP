@@ -1,4 +1,4 @@
-Grupo #09 
-Narali Trejo
-Christopher Pierre
-Miguel Saint-Hilaire
+Grupo: 9 
+Christopher Pierre #20
+Miguel Saint-Hilaire #26
+Narali Trejo #27
